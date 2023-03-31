@@ -1,0 +1,5 @@
+# UR, TR, UO, TO = map(int, input().split())
+N = int(input())
+a = N-(N*0.22)
+b = (N*0.8) + ((N-(N*0.8)) - ((N-(N*0.8))*0.22))
+print(int(a), int(b))
