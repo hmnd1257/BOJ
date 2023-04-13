@@ -16,4 +16,4 @@ while True:
         if li[1] == li[2]:
             cnt += 1
         
-        print('Equilateral' if cnt == 3 else ('Isosceles' if cnt == 1 or cnt == 2 else 'Scalene'))
+        print('Equilateral' if cnt == 3 else ('Isosceles' if cnt == 1 else 'Scalene'))
