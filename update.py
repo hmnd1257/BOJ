@@ -46,10 +46,9 @@ def main():
 
         for file in files:
             if category not in solveds:
-                if file.split('.')[-1] == '.py':
-                    content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root, file)))
-                    solveds.append(category)
-                    print("category : " + category)
+                content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
+                solveds.append(category)
+                print("category : " + category)
 
     with open("README.md", "w") as fd:
         fd.write(content)
