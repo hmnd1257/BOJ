@@ -54,10 +54,12 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-                
-        if len(dir_li) % cnt == 0:
-            content += "</details>\n"
-            
+        try:
+            if len(dir_li) % cnt == 0:
+                content += "</details>\n"
+        except:
+            pass
+        
     with open("README.md", "w") as fd:
         fd.write(content)
         
