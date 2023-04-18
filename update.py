@@ -43,6 +43,7 @@ def main():
                 content += '\n'
                 content += "## 📚 {}\n".format(directory)
             else:
+                content += '\n'
                 content += "### 🚀 {}\n".format(directory)
                 content += "<details>\n"
                 content += "<summary>접기/펼치기</summary>\n"
