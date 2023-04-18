@@ -13,7 +13,7 @@ def main():
     
     directories = [];
     solveds = [];
-    dir_li = []
+
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
@@ -33,20 +33,20 @@ def main():
         
         if directory == '.':
             continue
-        cnt = 0
         
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
-                content += "<details>\n"  # Move the <details> tag before the <summary> tag
+            else:
+                content += '\n'
+                content += "### 🚀 {}\n".format(directory)
+                content += "<details>\n"
                 content += "<summary>접기/펼치기</summary>\n"
                 content += "\n"
-            else:
-                content += "### 🚀 {}\n".format(directory)
+                content += "</details>\n"
+                
                 content += "| 문제번호 | 링크 |\n"
                 content += "| ----- | ----- |\n"
-                dir_li.append(directory)
-                cnt += 1
             directories.append(directory)
 
         for file in files:
@@ -54,11 +54,7 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-        try:
-            if len(dir_li) % cnt == 0:
-                content += "</details>\n"
-        except:
-            pass
+
         
     with open("README.md", "w") as fd:
         fd.write(content)
