@@ -13,7 +13,6 @@ def main():
     
     directories = [];
     solveds = [];
-    table_header_added = True
     
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -40,24 +39,22 @@ def main():
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
-                content += '<details>\n'
-                content += '<summary>접기/펼치기</summary>\n'
-                if not table_header_added:
-                    content += '\n'
-                    content += "| 문제번호 | 링크 |\n"
-                    content += "| ----- | ----- |\n"
-                    table_header_added = False
-                    
             directories.append(directory)
 
         for file in files:
             if category not in solveds:
+                content += "<details>\n"  
+                content += "<summary>{} - 접기/펼치기</summary>\n".format(category)
+                content += "\n"
+                content += "| 문제번호 | 링크 |\n"
+                content += "| ----- | ----- |\n"
+                
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
+                content += "</details>\n"
+                
                 solveds.append(category)
                 print("category : " + category)
-                
-        if directory not in ["백준", "프로그래머스"]:
-            content += "</details>\n"
+
             
     with open("README.md", "w") as fd:
         fd.write(content)
