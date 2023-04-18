@@ -4,7 +4,7 @@ import os
 from urllib import parse
 
 HEADER="""# 
-# Baekjoon & Programmers Problem Solving List
+# 백준 & 프로그래머스 문제 풀이 목록
 """
 
 def main():
@@ -13,7 +13,7 @@ def main():
     
     directories = [];
     solveds = [];
-    table_header_added = False
+    table_header_added = True
     
     for root, dirs, files in os.walk("."):
         dirs.sort()
@@ -46,7 +46,7 @@ def main():
                     content += '\n'
                     content += "| 문제번호 | 링크 |\n"
                     content += "| ----- | ----- |\n"
-                    table_header_added = True
+                    table_header_added = False
                     
             directories.append(directory)
 
