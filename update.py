@@ -13,7 +13,8 @@ def main():
     
     directories = [];
     solveds = [];
-
+    table_header_added = False
+    
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
@@ -41,9 +42,12 @@ def main():
                 content += "### 🚀 {}\n".format(directory)
                 content += '<details>\n'
                 content += '<summary>접기/펼치기</summary>\n'
-                content += '\n'
-                content += "| 문제번호 | 링크 |\n"
-                content += "| ----- | ----- |\n"
+                if not table_header_added:
+                    content += '\n'
+                    content += "| 문제번호 | 링크 |\n"
+                    content += "| ----- | ----- |\n"
+                    table_header_added = True
+                    
             directories.append(directory)
 
         for file in files:
