@@ -13,7 +13,7 @@ def main():
     
     directories = [];
     solveds = [];
-
+    in_directory = False
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
@@ -35,6 +35,10 @@ def main():
             continue
         
         if directory not in directories:
+            if in_directory:  
+                content += "</details>\n"  
+                in_directory = False
+                
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
             else:
@@ -53,7 +57,8 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-            content += "</details>\n"
+            in_directory = True
+
         
     with open("README.md", "w") as fd:
         fd.write(content)
