@@ -54,7 +54,6 @@ def main():
                 solveds.append(category)
                 print("category : " + category)
         content += "</details>\n"
-        content += '\n'
         
     with open("README.md", "w") as fd:
         fd.write(content)
