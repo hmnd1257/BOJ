@@ -1,14 +1,15 @@
 # 
 # 백준 & 프로그래머스 문제 풀이 목록
 ## 📚 백준
+
+### 🚀 Bronze
 <details>
 <summary>접기/펼치기</summary>
 
-### 🚀 Bronze
+</details>
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB)|
-</details>
 |10039. 평균 점수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10039.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%A0%90%EC%88%98)|
 |1008. A／B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1008.%E2%80%85A%EF%BC%8FB)|
 |1009. 분산처리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1009.%E2%80%85%EB%B6%84%EC%82%B0%EC%B2%98%EB%A6%AC)|
@@ -225,16 +226,24 @@
 |9506. 약수들의 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9506.%E2%80%85%EC%95%BD%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9)|
 |9653. 스타워즈 로고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9653.%E2%80%85%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%E2%80%85%EB%A1%9C%EA%B3%A0)|
 |9654. 나부 함대 데이터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9654.%E2%80%85%EB%82%98%EB%B6%80%E2%80%85%ED%95%A8%EB%8C%80%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0)|
+
 ### 🚀 Gold
+<details>
+<summary>접기/펼치기</summary>
+
+</details>
 | 문제번호 | 링크 |
 | ----- | ----- |
 |2293. 동전 1|[링크](./%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)|
-</details>
+
 ### 🚀 Silver
+<details>
+<summary>접기/펼치기</summary>
+
+</details>
 | 문제번호 | 링크 |
 | ----- | ----- |
 |1010. 다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0)|
-</details>
 |1018. 체스판 다시 칠하기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1018.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%B9%A0%ED%95%98%EA%B8%B0)|
 |1059. 좋은 구간|[링크](./%EB%B0%B1%EC%A4%80/Silver/1059.%E2%80%85%EC%A2%8B%EC%9D%80%E2%80%85%EA%B5%AC%EA%B0%84)|
 |1065. 한수|[링크](./%EB%B0%B1%EC%A4%80/Silver/1065.%E2%80%85%ED%95%9C%EC%88%98)|
@@ -264,11 +273,12 @@
 |7785. 회사에 있는 사람|[링크](./%EB%B0%B1%EC%A4%80/Silver/7785.%E2%80%85%ED%9A%8C%EC%82%AC%EC%97%90%E2%80%85%EC%9E%88%EB%8A%94%E2%80%85%EC%82%AC%EB%9E%8C)|
 |9020. 골드바흐의 추측|[링크](./%EB%B0%B1%EC%A4%80/Silver/9020.%E2%80%85%EA%B3%A8%EB%93%9C%EB%B0%94%ED%9D%90%EC%9D%98%E2%80%85%EC%B6%94%EC%B8%A1)|
 ## 📚 프로그래머스
+
+### 🚀 unrated
 <details>
 <summary>접기/펼치기</summary>
 
-### 🚀 unrated
+</details>
 | 문제번호 | 링크 |
 | ----- | ----- |
 |152995. 인사고과|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/152995.%E2%80%85%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC)|
-</details>
