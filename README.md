@@ -1,12 +1,9 @@
 # 
-# Baekjoon & Programmers Problem Solving List
+# 백준 & 프로그래머스 문제 풀이 목록
 ## 📚 백준
 ### 🚀 Bronze
 <details>
 <summary>접기/펼치기</summary>
-
-| 문제번호 | 링크 |
-| ----- | ----- |
 |1001. A－B|[링크](./%EB%B0%B1%EC%A4%80/Bronze/1001.%E2%80%85A%EF%BC%8DB)|
 </details>
 |10039. 평균 점수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/10039.%E2%80%85%ED%8F%89%EA%B7%A0%E2%80%85%EC%A0%90%EC%88%98)|
