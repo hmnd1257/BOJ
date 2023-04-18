@@ -53,7 +53,7 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-        content += "</details>\n"
+            content += "</details>\n"
         
     with open("README.md", "w") as fd:
         fd.write(content)
