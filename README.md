@@ -2,6 +2,7 @@
 # 백준 & 프로그래머스 문제 풀이 목록
 
 ## 📚 백준
+
 ### 🚀 Bronze
 <details>
 <summary>접기/펼치기</summary>
@@ -226,6 +227,7 @@
 |9653. 스타워즈 로고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9653.%E2%80%85%EC%8A%A4%ED%83%80%EC%9B%8C%EC%A6%88%E2%80%85%EB%A1%9C%EA%B3%A0)|
 |9654. 나부 함대 데이터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9654.%E2%80%85%EB%82%98%EB%B6%80%E2%80%85%ED%95%A8%EB%8C%80%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0)|
 </details>
+
 ### 🚀 Gold
 <details>
 <summary>접기/펼치기</summary>
@@ -234,6 +236,7 @@
 | ----- | ----- |
 |2293. 동전 1|[링크](./%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)|
 </details>
+
 ### 🚀 Silver
 <details>
 <summary>접기/펼치기</summary>
@@ -272,6 +275,7 @@
 </details>
 
 ## 📚 프로그래머스
+
 ### 🚀 unrated
 <details>
 <summary>접기/펼치기</summary>
