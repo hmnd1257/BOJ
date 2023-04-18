@@ -1,8 +1,4 @@
-N = int(input())
-cards = set(map(int, input().split()))
-
-M = int(input())
-check_values = list(map(int, input().split()))
-
-result = [1 if value in cards else 0 for value in check_values]
-print(" ".join(map(str, result)))
+card_cnt, card_value = int(input()), set(map(int, input().split()))
+check_cnt, check_value = int(input()), list(map(int, input().split()))
+   
+print(" ".join(str(1 if x in card_value else 0) for x in check_value))
