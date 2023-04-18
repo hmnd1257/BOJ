@@ -13,7 +13,7 @@ def main():
     
     directories = [];
     solveds = [];
-    
+    dir_li = []
     for root, dirs, files in os.walk("."):
         dirs.sort()
         if root == '.':
@@ -34,7 +34,7 @@ def main():
         if directory == '.':
             continue
         cnt = 0
-        dir_li = []
+        
         if directory not in directories:
             if directory in ["백준", "프로그래머스"]:
                 content += "## 📚 {}\n".format(directory)
