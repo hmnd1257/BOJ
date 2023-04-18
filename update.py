@@ -45,7 +45,6 @@ def main():
                 content += "<details>\n"
                 content += "<summary>접기/펼치기</summary>\n"
                 content += "\n"
-                content += "</details>\n"
                 
                 content += "| 문제번호 | 링크 |\n"
                 content += "| ----- | ----- |\n"
@@ -56,7 +55,8 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-
+        content += "</details>\n"
+        content += '\n'
         
     with open("README.md", "w") as fd:
         fd.write(content)
