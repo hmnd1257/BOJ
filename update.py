@@ -4,8 +4,7 @@ import os
 from urllib import parse
 
 HEADER="""# 
-# 백준 & 프로그래머스 문제 풀이 목록
-프로그래머스의 경우, 푼 문제 목록에 대한 마이그레이션이 필요합니다.
+# Baekjoon & Programmers Problem Solving List
 """
 
 def main():
@@ -40,6 +39,9 @@ def main():
                 content += "## 📚 {}\n".format(directory)
             else:
                 content += "### 🚀 {}\n".format(directory)
+                content += '<details>\n'
+                content += '<summary>접기/펼치기</summary>\n'
+                content += '\n'
                 content += "| 문제번호 | 링크 |\n"
                 content += "| ----- | ----- |\n"
             directories.append(directory)
@@ -49,7 +51,10 @@ def main():
                 content += "|{}|[링크]({})|\n".format(category, parse.quote(os.path.join(root)))#, file)))
                 solveds.append(category)
                 print("category : " + category)
-
+                
+        if directory not in ["백준", "프로그래머스"]:
+            content += "</details>\n"
+            
     with open("README.md", "w") as fd:
         fd.write(content)
         
