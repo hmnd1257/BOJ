@@ -444,17 +444,11 @@
 ### 🚀 Gold
 <details>
 <summary>접기/펼치기</summary>
-
-| 문제번호 | 링크 |
-| ----- | ----- |
 |2293. 동전 1|[링크](./%EB%B0%B1%EC%A4%80/Gold/2293.%E2%80%85%EB%8F%99%EC%A0%84%E2%80%851)|
 </details>
 ### 🚀 Silver
 <details>
 <summary>접기/펼치기</summary>
-
-| 문제번호 | 링크 |
-| ----- | ----- |
 |1010. 다리 놓기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1010.%E2%80%85%EB%8B%A4%EB%A6%AC%E2%80%85%EB%86%93%EA%B8%B0)|
 </details>
 |1018. 체스판 다시 칠하기|[링크](./%EB%B0%B1%EC%A4%80/Silver/1018.%E2%80%85%EC%B2%B4%EC%8A%A4%ED%8C%90%E2%80%85%EB%8B%A4%EC%8B%9C%E2%80%85%EC%B9%A0%ED%95%98%EA%B8%B0)|
@@ -517,8 +511,5 @@
 ### 🚀 unrated
 <details>
 <summary>접기/펼치기</summary>
-
-| 문제번호 | 링크 |
-| ----- | ----- |
 |152995. 인사고과|[링크](./%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/unrated/152995.%E2%80%85%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC)|
 </details>
