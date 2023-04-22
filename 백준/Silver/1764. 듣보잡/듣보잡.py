@@ -1,19 +1,10 @@
+from collections import Counter
+
 n, m = map(int, input().split())
+n_li = [input() for _ in range(n)]
+m_li = [input() for _ in range(m)]
 
-import collections
-n_li = list(str(input()) for _ in range(n))
-m_li = list(str(input()) for _ in range(m))
+common = sorted((Counter(n_li) & Counter(m_li)).elements())
 
-n_counter = collections.Counter(n_li)
-m_counter = collections.Counter(m_li)
-
-result = []
-cnt = 0
-for k, v in (n_counter & m_counter).items():
-    cnt += v
-    result.append(k)
-
-result.sort()
-print(cnt)
-for i in result:
-    print(i)
+print(len(common))
+print("\n".join(common))
