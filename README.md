@@ -224,6 +224,7 @@
 |5596. 시험 점수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5596.%E2%80%85%EC%8B%9C%ED%97%98%E2%80%85%EC%A0%90%EC%88%98)|
 |5597. 과제 안 내신 분．．？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5597.%E2%80%85%EA%B3%BC%EC%A0%9C%E2%80%85%EC%95%88%E2%80%85%EB%82%B4%EC%8B%A0%E2%80%85%EB%B6%84%EF%BC%8E%EF%BC%8E%EF%BC%9F)|
 |5622. 다이얼|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5622.%E2%80%85%EB%8B%A4%EC%9D%B4%EC%96%BC)|
+|5717. 상근이의 친구들|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5717.%E2%80%85%EC%83%81%EA%B7%BC%EC%9D%B4%EC%9D%98%E2%80%85%EC%B9%9C%EA%B5%AC%EB%93%A4)|
 |5893. 17배|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5893.%E2%80%8517%EB%B0%B0)|
 |5928. Contest Timing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5928.%E2%80%85Contest%E2%80%85Timing)|
 |6749. Next in line|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6749.%E2%80%85Next%E2%80%85in%E2%80%85line)|
