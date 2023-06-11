@@ -240,6 +240,7 @@
 |3009. 네 번째 점|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3009.%E2%80%85%EB%84%A4%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%A0%90)|
 |3046. R2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3046.%E2%80%85R2)|
 |3052. 나머지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3052.%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80)|
+|3460. 이진수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3460.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares)|
 |3765. Celebrity jeopardy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3765.%E2%80%85Celebrity%E2%80%85jeopardy)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F)|
