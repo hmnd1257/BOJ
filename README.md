@@ -258,6 +258,7 @@
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares)|
 |3765. Celebrity jeopardy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3765.%E2%80%85Celebrity%E2%80%85jeopardy)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F)|
+|4153. 직각삼각형|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4153.%E2%80%85%EC%A7%81%EA%B0%81%EC%82%BC%EA%B0%81%ED%98%95)|
 |4299. AFC 윔블던|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4299.%E2%80%85AFC%E2%80%85%EC%9C%94%EB%B8%94%EB%8D%98)|
 |4344. 평균은 넘겠지|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4344.%E2%80%85%ED%8F%89%EA%B7%A0%EC%9D%80%E2%80%85%EB%84%98%EA%B2%A0%EC%A7%80)|
 |4435. 중간계 전쟁|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4435.%E2%80%85%EC%A4%91%EA%B0%84%EA%B3%84%E2%80%85%EC%A0%84%EC%9F%81)|
