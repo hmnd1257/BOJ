@@ -299,6 +299,7 @@
 |5928. Contest Timing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5928.%E2%80%85Contest%E2%80%85Timing)|
 |6749. Next in line|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6749.%E2%80%85Next%E2%80%85in%E2%80%85line)|
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D)|
+|7510. 고급 수학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7510.%E2%80%85%EA%B3%A0%EA%B8%89%E2%80%85%EC%88%98%ED%95%99)|
 |8370. Plane|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8370.%E2%80%85Plane)|
 |8393. 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8393.%E2%80%85%ED%95%A9)|
 |8437. Julka|[링크](./%EB%B0%B1%EC%A4%80/Bronze/8437.%E2%80%85Julka)|
