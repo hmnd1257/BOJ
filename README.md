@@ -286,6 +286,7 @@
 |5341. Pyramids|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5341.%E2%80%85Pyramids)|
 |5358. Football Team|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5358.%E2%80%85Football%E2%80%85Team)|
 |5522. 카드 게임|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5522.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)|
+|5523. 경기 결과|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5523.%E2%80%85%EA%B2%BD%EA%B8%B0%E2%80%85%EA%B2%B0%EA%B3%BC)|
 |5524. 입실 관리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC)|
 |5532. 방학 숙제|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5532.%E2%80%85%EB%B0%A9%ED%95%99%E2%80%85%EC%88%99%EC%A0%9C)|
 |5543. 상근날드|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5543.%E2%80%85%EC%83%81%EA%B7%BC%EB%82%A0%EB%93%9C)|
