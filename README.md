@@ -285,6 +285,7 @@
 |5339. 콜센터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5339.%E2%80%85%EC%BD%9C%EC%84%BC%ED%84%B0)|
 |5341. Pyramids|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5341.%E2%80%85Pyramids)|
 |5358. Football Team|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5358.%E2%80%85Football%E2%80%85Team)|
+|5361. 전투 드로이드 가격|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5361.%E2%80%85%EC%A0%84%ED%88%AC%E2%80%85%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%E2%80%85%EA%B0%80%EA%B2%A9)|
 |5522. 카드 게임|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5522.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)|
 |5523. 경기 결과|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5523.%E2%80%85%EA%B2%BD%EA%B8%B0%E2%80%85%EA%B2%B0%EA%B3%BC)|
 |5524. 입실 관리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5524.%E2%80%85%EC%9E%85%EC%8B%A4%E2%80%85%EA%B4%80%EB%A6%AC)|
