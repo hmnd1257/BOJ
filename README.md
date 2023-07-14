@@ -285,6 +285,7 @@
 |5338. 마이크로소프트 로고|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5338.%E2%80%85%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%86%8C%ED%94%84%ED%8A%B8%E2%80%85%EB%A1%9C%EA%B3%A0)|
 |5339. 콜센터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5339.%E2%80%85%EC%BD%9C%EC%84%BC%ED%84%B0)|
 |5341. Pyramids|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5341.%E2%80%85Pyramids)|
+|5354. J박스|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5354.%E2%80%85J%EB%B0%95%EC%8A%A4)|
 |5358. Football Team|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5358.%E2%80%85Football%E2%80%85Team)|
 |5361. 전투 드로이드 가격|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5361.%E2%80%85%EC%A0%84%ED%88%AC%E2%80%85%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%E2%80%85%EA%B0%80%EA%B2%A9)|
 |5522. 카드 게임|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5522.%E2%80%85%EC%B9%B4%EB%93%9C%E2%80%85%EA%B2%8C%EC%9E%84)|
