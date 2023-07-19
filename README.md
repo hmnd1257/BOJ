@@ -309,6 +309,7 @@
 |5789. 한다 안한다|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5789.%E2%80%85%ED%95%9C%EB%8B%A4%E2%80%85%EC%95%88%ED%95%9C%EB%8B%A4)|
 |5893. 17배|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5893.%E2%80%8517%EB%B0%B0)|
 |5928. Contest Timing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5928.%E2%80%85Contest%E2%80%85Timing)|
+|5988. 홀수일까 짝수일까|[링크](./%EB%B0%B1%EC%A4%80/Bronze/5988.%E2%80%85%ED%99%80%EC%88%98%EC%9D%BC%EA%B9%8C%E2%80%85%EC%A7%9D%EC%88%98%EC%9D%BC%EA%B9%8C)|
 |6131. 완전 제곱수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6131.%E2%80%85%EC%99%84%EC%A0%84%E2%80%85%EC%A0%9C%EA%B3%B1%EC%88%98)|
 |6749. Next in line|[링크](./%EB%B0%B1%EC%A4%80/Bronze/6749.%E2%80%85Next%E2%80%85in%E2%80%85line)|
 |7287. 등록|[링크](./%EB%B0%B1%EC%A4%80/Bronze/7287.%E2%80%85%EB%93%B1%EB%A1%9D)|
