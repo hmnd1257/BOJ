@@ -214,6 +214,7 @@
 |22193. Multiply|[링크](./%EB%B0%B1%EC%A4%80/Bronze/22193.%E2%80%85Multiply)|
 |2231. 분해합|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2231.%E2%80%85%EB%B6%84%ED%95%B4%ED%95%A9)|
 |2292. 벌집|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2292.%E2%80%85%EB%B2%8C%EC%A7%91)|
+|23080. 스키테일 암호|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23080.%E2%80%85%EC%8A%A4%ED%82%A4%ED%85%8C%EC%9D%BC%E2%80%85%EC%95%94%ED%98%B8)|
 |2321. Crowing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2321.%E2%80%85Crowing)|
 |23234. The World Responds|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23234.%E2%80%85The%E2%80%85World%E2%80%85Responds)|
 |2338. 긴자리 계산|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2338.%E2%80%85%EA%B8%B4%EC%9E%90%EB%A6%AC%E2%80%85%EA%B3%84%EC%82%B0)|
