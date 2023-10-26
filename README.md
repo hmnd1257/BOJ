@@ -218,6 +218,7 @@
 |23080. 스키테일 암호|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23080.%E2%80%85%EC%8A%A4%ED%82%A4%ED%85%8C%EC%9D%BC%E2%80%85%EC%95%94%ED%98%B8)|
 |2321. Crowing|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2321.%E2%80%85Crowing)|
 |23234. The World Responds|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23234.%E2%80%85The%E2%80%85World%E2%80%85Responds)|
+|23348. 스트릿 코딩 파이터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/23348.%E2%80%85%EC%8A%A4%ED%8A%B8%EB%A6%BF%E2%80%85%EC%BD%94%EB%94%A9%E2%80%85%ED%8C%8C%EC%9D%B4%ED%84%B0)|
 |2338. 긴자리 계산|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2338.%E2%80%85%EA%B8%B4%EC%9E%90%EB%A6%AC%E2%80%85%EA%B3%84%EC%82%B0)|
 |2355. 시그마|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2355.%E2%80%85%EC%8B%9C%EA%B7%B8%EB%A7%88)|
 |2372. Livestock Count|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2372.%E2%80%85Livestock%E2%80%85Count)|
