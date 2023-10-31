@@ -1,0 +1,14 @@
+import sys
+input=sys.stdin.readline
+
+N = int(input())
+
+for i in range(N*5) :
+    if i < N :
+        for j in range(N*5) :
+            print("@", end="")
+    else :
+        for j in range(N) :
+            print("@", end="")
+
+    print()
