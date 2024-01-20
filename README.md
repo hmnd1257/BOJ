@@ -417,6 +417,7 @@
 |3181. 줄임말 만들기|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3181.%E2%80%85%EC%A4%84%EC%9E%84%EB%A7%90%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0)|
 |3449. 해밍 거리|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3449.%E2%80%85%ED%95%B4%EB%B0%8D%E2%80%85%EA%B1%B0%EB%A6%AC)|
 |3460. 이진수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3460.%E2%80%85%EC%9D%B4%EC%A7%84%EC%88%98)|
+|3622. 어떤 호박의 할로윈 여행|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3622.%E2%80%85%EC%96%B4%EB%96%A4%E2%80%85%ED%98%B8%EB%B0%95%EC%9D%98%E2%80%85%ED%95%A0%EB%A1%9C%EC%9C%88%E2%80%85%EC%97%AC%ED%96%89)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares)|
 |3765. Celebrity jeopardy|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3765.%E2%80%85Celebrity%E2%80%85jeopardy)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F)|
