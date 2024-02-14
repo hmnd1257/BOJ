@@ -534,6 +534,15 @@
 |9654. 나부 함대 데이터|[링크](./%EB%B0%B1%EC%A4%80/Bronze/9654.%E2%80%85%EB%82%98%EB%B6%80%E2%80%85%ED%95%A8%EB%8C%80%E2%80%85%EB%8D%B0%EC%9D%B4%ED%84%B0)|
 </details>
 
+### 🚀 Bronze II
+<details>
+<summary>접기/펼치기</summary>
+
+| 문제번호 | 링크 |
+| ----- | ----- |
+|17173. 배수들의 합|[링크](./%EB%B0%B1%EC%A4%80/Bronze%20II/17173.%E2%80%85%EB%B0%B0%EC%88%98%EB%93%A4%EC%9D%98%E2%80%85%ED%95%A9)|
+</details>
+
 ### 🚀 Gold
 <details>
 <summary>접기/펼치기</summary>
